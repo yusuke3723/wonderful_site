@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="r-8JqPALChrC2I38IcBrJnOkPbqWo0FWzXk6d0IJPo0" />
+	<title>完全網羅型プログラミング講座｜ワンダフル・コード - ワンダフルワイフ</title>
+	<meta name="description" content="ワンダフルワイフ株式会社の公式サイトです。プログラミングスキル、動画編集スキル、デザインスキルなど、社会的に需要の大きいスキルを最短で習得するためのサービスを提供します。">
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://wonderful-wife.net/xmlrpc.php">
+
+		
+	<!-- This site is optimized with the Yoast SEO plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="プログラミングの新常識自由なフリーランスエンジニアになる為のエッセンスがギュッと凝縮！完全網羅型プログラミング講座" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://wonderful-wife.net/w_code/" />
+	<meta property="og:locale" content="ja_JP" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="完全網羅型プログラミング講座｜ワンダフル・コード - ワンダフルワイフ" />
+	<meta property="og:description" content="プログラミングの新常識自由なフリーランスエンジニアになる為のエッセンスがギュッと凝縮！完全網羅型プログラミング講座" />
+	<meta property="og:url" content="https://wonderful-wife.net/w_code/" />
+	<meta property="og:site_name" content="ワンダフルワイフ" />
+	<meta property="article:modified_time" content="2021-01-05T01:25:23+00:00" />
+	<meta property="og:image" content="https://wonderful-wife.net/wp-content/uploads/2020/08/codeogp.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="https://wonderful-wife.net/wp-content/uploads/2020/08/codeogp.png" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://wonderful-wife.net/#website","url":"https://wonderful-wife.net/","name":"\u30ef\u30f3\u30c0\u30d5\u30eb\u30ef\u30a4\u30d5","description":"\u30ef\u30f3\u30c0\u30d5\u30eb\u30ef\u30a4\u30d5\u682a\u5f0f\u4f1a\u793e\u306e\u516c\u5f0f\u30b5\u30a4\u30c8\u3067\u3059\u3002\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u30b9\u30ad\u30eb\u3001\u52d5\u753b\u7de8\u96c6\u30b9\u30ad\u30eb\u3001\u30c7\u30b6\u30a4\u30f3\u30b9\u30ad\u30eb\u306a\u3069\u3001\u793e\u4f1a\u7684\u306b\u9700\u8981\u306e\u5927\u304d\u3044\u30b9\u30ad\u30eb\u3092\u6700\u77ed\u3067\u7fd2\u5f97\u3059\u308b\u305f\u3081\u306e\u30b5\u30fc\u30d3\u30b9\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002","potentialAction":[{"@type":"SearchAction","target":"https://wonderful-wife.net/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ja"},{"@type":"ImageObject","@id":"https://wonderful-wife.net/w_code/#primaryimage","inLanguage":"ja","url":"https://wonderful-wife.net/wp-content/uploads/2020/08/codeogp.png","width":1200,"height":630},{"@type":"WebPage","@id":"https://wonderful-wife.net/w_code/#webpage","url":"https://wonderful-wife.net/w_code/","name":"\u5b8c\u5168\u7db2\u7f85\u578b\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8b1b\u5ea7\uff5c\u30ef\u30f3\u30c0\u30d5\u30eb\u30fb\u30b3\u30fc\u30c9 - \u30ef\u30f3\u30c0\u30d5\u30eb\u30ef\u30a4\u30d5","isPartOf":{"@id":"https://wonderful-wife.net/#website"},"primaryImageOfPage":{"@id":"https://wonderful-wife.net/w_code/#primaryimage"},"datePublished":"2020-07-15T01:46:38+00:00","dateModified":"2021-01-05T01:25:23+00:00","description":"\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u306e\u65b0\u5e38\u8b58\u81ea\u7531\u306a\u30d5\u30ea\u30fc\u30e9\u30f3\u30b9\u30a8\u30f3\u30b8\u30cb\u30a2\u306b\u306a\u308b\u70ba\u306e\u30a8\u30c3\u30bb\u30f3\u30b9\u304c\u30ae\u30e5\u30c3\u3068\u51dd\u7e2e\uff01\u5b8c\u5168\u7db2\u7f85\u578b\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8b1b\u5ea7","inLanguage":"ja","potentialAction":[{"@type":"ReadAction","target":["https://wonderful-wife.net/w_code/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="ワンダフルワイフ &raquo; フィード" href="https://wonderful-wife.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ワンダフルワイフ &raquo; コメントフィード" href="https://wonderful-wife.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wonderful-wife.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://wonderful-wife.net/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://wonderful-wife.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='_tk-bootstrap-wp-css'  href='https://wonderful-wife.net/wp-content/themes/agent_tcd033/includes/css/bootstrap-wp.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='_tk-bootstrap-css'  href='https://wonderful-wife.net/wp-content/themes/agent_tcd033/includes/resources/bootstrap/css/bootstrap.min.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='_tk-font-awesome-css'  href='https://wonderful-wife.net/wp-content/themes/agent_tcd033/includes/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-css'  href='https://use.fontawesome.com/releases/v5.13.0/css/all.css' type='text/css' media='all' integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous" />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css'  href='https://use.fontawesome.com/releases/v5.13.0/css/v4-shims.css' type='text/css' media='all' integrity="sha384-/7iOrVBege33/9vHFYEtviVcxjUsNCqyeMnlW/Ms+PH8uRdFkKFmqf9CbVAN0Qef" crossorigin="anonymous" />
+<style id='font-awesome-official-v4shim-inline-css' type='text/css'>
+@font-face {
+font-family: "FontAwesome";
+src: url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+src: url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.eot"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+src: url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+</style>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=5.6.2' id='jquery-js'></script>
+<script type='text/javascript' src='https://wonderful-wife.net/wp-content/themes/agent_tcd033/includes/resources/bootstrap/js/bootstrap.js?ver=5.6.2' id='_tk-bootstrapjs-js'></script>
+<script type='text/javascript' src='https://wonderful-wife.net/wp-content/themes/agent_tcd033/includes/js/bootstrap-wp.js?ver=5.6.2' id='_tk-bootstrapwp-js'></script>
+<link rel="https://api.w.org/" href="https://wonderful-wife.net/wp-json/" /><link rel="alternate" type="application/json" href="https://wonderful-wife.net/wp-json/wp/v2/pages/413" /><link rel='shortlink' href='https://wonderful-wife.net/?p=413' />
+<link rel="alternate" type="application/json+oembed" href="https://wonderful-wife.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwonderful-wife.net%2Fw_code%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://wonderful-wife.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwonderful-wife.net%2Fw_code%2F&#038;format=xml" />
+<link rel="apple-touch-icon" sizes="180x180" href="/wp-content/uploads/fbrfg/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/wp-content/uploads/fbrfg/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/wp-content/uploads/fbrfg/favicon-16x16.png">
+<link rel="manifest" href="/wp-content/uploads/fbrfg/site.webmanifest">
+<link rel="mask-icon" href="/wp-content/uploads/fbrfg/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/wp-content/uploads/fbrfg/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/wp-content/uploads/fbrfg/browserconfig.xml">
+<meta name="theme-color" content="#ffffff"><style type="text/css"></style>		<style type="text/css" id="wp-custom-css">
+			.smaller-mobile-h2{
+	font-size:31px !important;
+}
+
+.footer-menu li a{
+	color:#333;
+}
+
+.footer-menu li a:hover{
+	color:#ff9000;
+}
+
+h2 a{
+	color:orange !important;
+}
+
+h2 a:hover{
+	color:gray !important;
+	cursor: hand !important;
+}		</style>
+			<link rel="stylesheet" href="https://wonderful-wife.net/wp-content/themes/agent_tcd033/style.css?ver=3.1.7" type="text/css" />
+
+	
+	<script type="text/javascript" src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/parallax.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://wonderful-wife.net/wp-content/themes/agent_tcd033/agent.css" type="text/css" />
+
+		<script type="text/javascript" src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/js/jscript.js"></script>
+	<script src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/js/comment.js?ver=?ver=3.1.7"></script>
+	<link rel="stylesheet" href="https://wonderful-wife.net/wp-content/themes/agent_tcd033/comment-style.css" type="text/css" />
+
+	<link rel="stylesheet" media="screen and (max-width:770px)" href="https://wonderful-wife.net/wp-content/themes/agent_tcd033/footer-bar/footer-bar.css?ver=?ver=3.1.7">
+
+	
+	<style type="text/css">
+			</style>
+
+	<style type="text/css">
+		#logo_image { top:0px; left:0px; }
+		body { font-size:14px; }
+	
+	.title a:hover, .entry-meta a:hover, .post_category a:hover, .widget a:hover, .categories-wrap a:hover {color: #F5B92F!important;}
+	.dropdown-menu {
+	  background-color:#F5B92F;
+	}
+	.dropdown-menu .menu-item:hover *{
+	  background:#A1A1A1!important;
+	}
+	.link-button-azure_top, .link-button-azure_btm{
+	  background-color:#F5B92F!important;
+	}
+	.next-button:after { border-left-color:F5B92F!important; border-bottom-color:F5B92F!important; }
+	.next-button:hover, .next-button:hover:after {border-color:A1A1A1!important;}
+	.link-button-azure_top:hover, .link-button-azure_btm:hover {
+	  background:#A1A1A1!important;
+	}
+	.read-more:hover, .archives_btn:hover, .prev_link a:hover, .next_link a:hover, #submit_comment:hover, .form_table .btn-primary, .form_table td.form_title  { background:#F5B92F!important; }
+
+  @media only screen and (min-width: 767px) {
+    .navbar-nav > .current-menu-item > a{color: #F5B92F !important;}
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .current-menu-item *{color: #F5B92F !important;}
+    .menu-item.active a {
+      color:black;
+    }
+  }
+
+			p { word-wrap:break-word; }
+	
+	.toptitle{
+font-size:21px;
+}
+
+@media screen and (min-width:600px){
+.toptitle{
+font-size:16px;
+font-family: serif;
+}
+}
+	
+			#agent-header-outer{ position: fixed;}
+		.navbar-collapse.collapse.in{ margin-top:0; }
+		.mobile_nav_wapper{ position:fixed; top:90px; }
+	
+
+							.form_table td.form_title{ background: #F5B92F; }
+		.form_table .btn-primary{ background: #F5B92F; }
+		.form_table .btn-primary:hover{ background: #A1A1A1; }
+	
+	</style>
+	<link rel="stylesheet" href="https://wonderful-wife.net/wp-content/themes/agent_tcd033/css/lp.css?ver=305750692" type="text/css" />
+	<link rel="stylesheet" href="https://wonderful-wife.net/wp-content/themes/agent_tcd033/css/lpsp.css?ver=2086824121" type="text/css" />
+<script>
+jQuery(function(){
+    var windowWidth = $(window).width();
+    var headerHight = 112; 
+    jQuery('a[href^=#]').click(function() {
+    var speed = 1000;
+    var href= jQuery(this).attr("href");
+    var target = jQuery(href == "#" || href == "" ? 'html' : href);
+    var position = target.offset().top-headerHight;
+    jQuery('body,html').animate({scrollTop:position}, speed, 'swing');
+    return false;
+   });
+});
+</script>
+<link rel="stylesheet" href="https://wonderful-wife.net/wp-content/themes/agent_tcd033/css/style-lightbox.css?ver=1622191415" type="text/css" />
+<script type="text/javascript" src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/js/lightbox.js"></script>
+<link rel="stylesheet" href="https://wonderful-wife.net/wp-content/themes/agent_tcd033/css/animate.css?ver=869940311" type="text/css" />
+<script type="text/javascript" src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/js/wow.min.js"></script>
+<script>
+new WOW().init();
+</script>
+	
+	
+	<!-- もしもアフィリエイト用　-->
+<script src="https://r.moshimo.com/af/r/maftag.js"></script>
+	<script>
+  mafcross(['wonderful-wife.net','ex-pa.jp'])
+</script>
+	<!-- もしもアフィリエイト用 ここまで　-->
+</head>
+
+<body data-rsssl=1 class="page-template page-template-page-w_code page-template-page-w_code-php page page-id-413">
+	
+	<div id="verytop"></div>
+	<div id="agent-header-outer">
+			<div class="container hidden-xs hidden-sm hidden-md">
+				<div class="row">
+					<div class="logo-wrap col-xs-20">
+					  <!-- logo -->
+					  <div id='logo_image'>
+<h1 id="logo"><a href="https://wonderful-wife.net/" title="ワンダフルワイフ" data-label="ワンダフルワイフ"><img class="h_logo" src="https://wonderful-wife.net/wp-content/uploads/tcd-w/logo.png?1616924445" alt="ワンダフルワイフ" title="ワンダフルワイフ" /></a></h1>
+</div>
+				</div>
+					<div class="col-xs-100 col-md-100 col-lg-80 agent-header-menu romaji">
+	          <div class="navbar navbar-default">
+	            <div class="navbar-header">
+	              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav_toggle">
+	                <span class="sr-only">Toggle navigation </span>
+	                <span class="icon-bar"></span>
+	                <span class="icon-bar"></span>
+	                <span class="icon-bar"></span>
+	              </button>
+								<div class="collapse navbar-collapse nav_toggle"><ul id="main-menu" class="nav navbar-nav"><li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-18"><a href="https://wonderful-wife.net">ホーム</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://wonderful-wife.net/service/">サービス案内</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children dropdown active menu-item-41"><a href="https://wonderful-wife.net/study/" class="dropdown-toggle" data-toggle="dropdown">オンライン講座</a>
+<ul class="dropdown-menu depth_0">
+	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-413 current_page_item active menu-item-425"><a href="https://wonderful-wife.net/w_code/">ワンダフル・コード</a></li>
+	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="https://wonderful-wife.net/w_nocode/">ワンダフル・ノーコード</a></li>
+	<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="https://wonderful-wife.net/w_movie/">ワンダフル・ムービー・エディター</a></li>
+	<li id="menu-item-427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427"><a href="https://wonderful-wife.net/w_design/">ワンダフル・デザイナー</a></li>
+</ul>
+</li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://wonderful-wife.net/guidance/">会社概要</a></li>
+<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="https://wonderful-wife.net/contact/">お問合せ</a></li>
+<li id="menu-item-548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-548"><a href="https://wonderful-wife.net/blog/">ブログ</a></li>
+</ul></div>							</div>
+						</div>
+					</div>
+					<div class="col-xs-20 hidden-xs hidden-sm hidden-md"><a href="/contact/" class="link-button-azure_top"><span class="btn_lavel">お問合せはこちら</span><span class="arrow_ico1"></span></a></div>				</div>
+			</div>
+			<div class="container hidden-lg">
+	      <div class="row">
+	        <div class="site-navigation-inner col-xs-120">
+	          <div class="navbar navbar-default" style="margin-bottom:0px">
+	            <div class="navbar-header">
+	              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav_toggle" style='z-index:3000'>
+	                <span class="sr-only">Toggle navigation </span>
+	                <span class="icon-bar"></span>
+	                <span class="icon-bar"></span>
+	                <span class="icon-bar"></span>
+	              </button>
+
+	              <div id="logo-area">
+	                <div id='logo_image'>
+<h1 id="logo"><a href="https://wonderful-wife.net/" title="ワンダフルワイフ" data-label="ワンダフルワイフ"><img class="h_logo" src="https://wonderful-wife.net/wp-content/uploads/tcd-w/logo.png?1616924445" alt="ワンダフルワイフ" title="ワンダフルワイフ" /></a></h1>
+</div>
+	              </div>
+
+	            </div>
+
+	          </div><!-- .navbar -->
+	        </div>
+	      </div>
+			</div>
+	</div>
+	            <!-- The WordPress Menu goes here -->
+	            <div class="hidden-lg mobile_nav_wapper">
+								<div class="collapse navbar-collapse nav_toggle"><ul id="main-menu" class="nav navbar-nav pt0"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-18"><a href="https://wonderful-wife.net">ホーム</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://wonderful-wife.net/service/">サービス案内</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children dropdown active menu-item-41"><a href="https://wonderful-wife.net/study/" class="dropdown-toggle" data-toggle="dropdown">オンライン講座</a>
+<ul class="dropdown-menu depth_0">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-413 current_page_item active menu-item-425"><a href="https://wonderful-wife.net/w_code/">ワンダフル・コード</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="https://wonderful-wife.net/w_nocode/">ワンダフル・ノーコード</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="https://wonderful-wife.net/w_movie/">ワンダフル・ムービー・エディター</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427"><a href="https://wonderful-wife.net/w_design/">ワンダフル・デザイナー</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://wonderful-wife.net/guidance/">会社概要</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="https://wonderful-wife.net/contact/">お問合せ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-548"><a href="https://wonderful-wife.net/blog/">ブログ</a></li>
+</ul></div>	            </div>
+
+<div class="lp_body">
+	
+
+<section class="w_code_head">
+<div class="w_code_head_inner lpwrap">
+<div class="w_code_head_unit wow fadeInUp">
+<h1 class="w_code_head_ttl">Wonderful Code</h1>
+<div class="w_code_head_ttls">ワンダフル コード</div>
+<div class="w_code_head_txt01">
+<p>プログラミングの新常識<br>
+自由なフリーランスエンジニアになる為の<br>
+エッセンスがギュッと凝縮！</p>
+</div>
+<div class="w_code_head_txt02">
+<div><span class="yellow_line">完全網羅型プログラミング講座</span></div>
+</div>
+
+<a href="https://ex-pa.jp/item/26723" class="w_code_head_btn01">講座のお申し込みはこちら</a>
+	
+<br><span class="warning">※お客様都合による返品・返金はお受けしておりません。</span><br>
+<span class="warning">※決済システムの仕様上、ご注文内容「配送」と表示されますが、サービスはWebのみで提供されます。<br>招待リンクがご登録メールアドレスに送信されますのでご確認ください。</span>
+</div><!--w_code_head_unit-->
+<div class="only_pc">
+<div class="w_code_head_list flex justify wow fadeInUp">
+<div><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/common/icn_beginner.svg"><br>
+<span>充実した学習サポートで<br>
+未経験者も安心！</span></div>
+<div><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/common/icn_smartphone.svg"><br>
+<span>オンラインでPC、スマホで<br>
+いつでもどこでも学べる</span></div>
+<div><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/common/icn_support.svg"><br>
+<span>期間無制限の永久サポート</span></div>
+</div><!--w_code_head_list-->
+</div>
+</div><!--w_code_head_inner-->
+</section><!--w_code_head-->
+ 
+<section class="w_code_headtxt">
+<div class="w_code_headtxt_inner lpwrap">
+<div class="only_sp">
+<div class="w_code_head_list flex justify">
+<div><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/common/icn_beginner.svg"><br>
+<span>充実した学習サポートで<br>
+未経験者も安心！</span></div>
+<div><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/common/icn_smartphone.svg"><br>
+<span>オンラインでPC、スマホで<br>
+いつでもどこでも学べる</span></div>
+<div><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/common/icn_support.svg"><br>
+<span>期間無制限の永久サポート</span></div>
+</div><!--w_code_head_list-->
+</div>
+<div class="wow fadeInUp">
+<h2 class="w_code_headtxt_ttl">-Wonderful Code-</h2>
+<p>プログラミングを体系的に学ぶことができるオンライン講座”Wonderful Code(ワンダフルコード)”へようこそ。<br>
+本講座は、人生逃げ切りサロンの価値観を学び人生を劇的に変えて、現役でプログラマーとして活躍している「金子氏・江並氏」が講師を務めるプログラミング講座です。</p>
+</div>
+</div><!--w_code_headtxt_inner-->
+</section><!--w_code_headtxt-->
+ 
+<section class="w_code_conversation lpwrap com_box01 wow fadeInUp">
+<h2 class="com_ttl02">対談動画</h2>
+<div class="com_mvbox01">
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uvfguby5_jY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><!--com_mvbox01-->
+</section><!--w_code_conversation-->
+
+<section class="w_code_recommended com_box01 bg_blue wow fadeInUp">
+<div class="w_code_recommended_inner lpwrap">
+<div class="w_code_recommended_unit">
+<h2 class="only_pc">こんな人におすすめです！</h2>
+<div class="only_sp">
+<div class="w_code_recommended_unit_ttl flex justify">
+<h2 class="h2fontsize">こんな人に<br>おすすめです！</h2>
+<div><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/illust01_sp.png"></div>
+</div>
+</div>
+<ul>
+<li>未経験から即戦力まで<span class="fbold">スキルアップ</span>したい人</li>
+<li>現役プログラマーから<span class="fbold">プログラミングスキル</span>を学びたい方</li>
+<li>自宅や自分の<span class="fbold">好きな場所で</span>学習したい人</li>
+<li>とにかく<span class="fbold">フリーランスエンジニア</span>になって稼ぎたい人</li>
+<li>基礎から応用まで<span class="fbold">現場で通用する技術</span>を一から学びたい人</li>
+<li><span class="fbold">プログラミングやIT業界未経験</span>だけど、エンジニアになりたい人</li>
+<li>今流行りの<span class="fbold">クラウド技術</span>を学んで<span class="fbold">求められる人材</span>になりたい人</li>
+<li>現役の<span class="fbold">一流エンジニアのメンター</span>が欲しい人</li>
+<li>独学は苦手だから、<span class="fbold">学習をずっとサポート</span>して欲しい人</li>
+<li><span class="fbold">高いスキル</span>を身につけ、<span class="fbold">会社に依存しない人材</span>になりたい人</li>
+<li><span class="fbold">時間</span>や<span class="fbold">お金</span>を無駄に使いたくない人</li>
+<li>年齢、職歴を理由に<span class="fbold">自分の可能性</span>を諦めたくない人</li>
+</ul>
+</div><!--w_code_recommended_unit-->
+</div><!--w_code_recommended_inner-->
+</section><!--w_code_recommended-->
+
+<section class="w_code_diagnosis lpwrap com_box01 wow fadeInUp">
+<div class="w_code_diagnosis_head">
+<p><i class="fas fa-chevron-circle-right"></i> こちらの動画もご覧ください。</p>
+<p><span>フリーランスビジネス診断結果</span>で<br>
+<span>プログラミング</span>と出た方へ</p>
+</div><!--w_code_diagnosis_head-->
+<h2 class="com_ttl02">診断結果動画</h2>
+<div class="com_mvbox01">
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qRLN5JkwbPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+</div>
+</div><!--com_mvbox01-->
+<div class="w_code_diagnosis_inner flex justify">
+<div class="w_code_diagnosis_img"><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/illust02.png"></div>
+<div class="w_code_diagnosis_txt">
+<p>多種多様で柔軟な働き方と<br>
+選択肢があることが、<br>
+エンジニアの一番の魅力です！！</p>
+</div><!--w_code_diagnosis_txt-->
+</div><!--w_code_diagnosis_inner-->
+</section><!--w_code_diagnosis-->
+
+<section class="w_code_about bg_blue com_box01 wow fadeInUp">
+<h2 class="com_ttl02">「Ruｂｙ」＆「AWS」</h2>
+<div class="w_code_about_inner lpwrap">
+<div class="w_code_about_unit01 flex justify">
+<div class="w_code_about_img"><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/illust03.png"></div>
+<div class="w_code_about_txt">
+<p>本講座では、<br>
+プログラミング言語として「<span class="fbold">Ruby</span>」、<br>
+それを動かす仕組みとして「<span class="fbold">AWS</span>」の<br>
+両方を学びます。</p>
+</div><!--w_code_about_txt-->
+</div><!--w_code_about_unit01-->
+<div class="w_code_about_txt01">
+<p>Rubyは自由な働き方が実現しやすい言語。先進的なITベンチャーなどの文化の会社で採用されやすく、私服、週３勤務、リモートOKなど<span class="fbold">フレキシブルな働き方</span>も。</p>
+<p>リモートでWebサービスを開発できるようになれば、フリーランスとして独立し、<span class="fbold">海外で旅をしながら働くことも目指せる</span>ということです。</p>
+</div>
+<div class="w_code_about_unit01 flex justify">
+<div class="w_code_about_txt">
+<p><span class="fbold">ワンダフルコード</span>を通して<br>
+あなたは<span class="fbold">どんな成長を遂げる</span>のか？</p>
+</div><!--w_code_about_txt-->
+<div class="w_code_about_img"><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/illust04.png"></div>
+</div><!--w_code_about_unit01-->
+<div class="w_code_about_txt01">
+<p>プログラムをRubyで書いて、それを動かすための仕組み（AWS）もトータルで学べるので、網羅的に仕事ができるようになる。
+つまり<span class="fbold">市場価値が非常に高い人材</span>になるということです。</p>
+<p>大手エンジニア案件紹介サービスのレバテックの求人平均年収は862万円。月60-80万円になります。あなたがこの報酬を得る可能性があるということです。</p>
+<p>さらに、講師は２人とも現役のプロエンジニア。<br>
+業界の転職事情などを直接聞いて<span class="fbold">未来のキャリア形成に繋げて</span>ください。</p>
+<p>今回の講座で就職保証はありませんが、私りゅうけんが持つ法人ウェブコンサルティングサービス会社から<span class="fbold">無料で案件を受け取ることも可能</span>です。</p>
+<p>フレキシブルな会社に転職する、<span class="fbold">フリーランスエンジニア</span>となって収入の天井を上げる。</p>
+</div>
+<div class="w_code_about_unit02 flex justify">
+<div class="w_code_about_img"><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/illust05.png"></div>
+<div class="w_code_about_txt">
+<p><span class="fbold">ワンダフルコード</span>で<br>
+<span class="fbold">望む未来</span>を手に入れてください。</p>
+</div><!--w_code_about_txt-->
+</div><!--w_code_about_unit02-->
+</div><!--w_code_about_inner-->
+</section><!--w_code_about-->
+
+<section class="w_code_application wow fadeInUp">
+<div class="w_code_application_ttl">講座のお申し込みはこちら</div>
+<a href="https://ex-pa.jp/item/26723" class="w_code_application_btn">講座の申し込みを希望する</a>
+<a href="https://ex-pa.jp/seller/tokutei/289375/26723" class="law_link">特定商取引法に関する記載</a>
+<br><span class="warning">※お客様都合による返品・返金はお受けしておりません。</span><br>
+<span class="warning">※決済システムの仕様上、ご注文内容「配送」と表示されますが、サービスはWebのみで提供されます。<br>招待リンクがご登録メールアドレスに送信されますのでご確認ください。</span>
+</section><!--w_code_application-->
+
+<section class="w_code_teacher com_box01 bg_blue wow fadeInUp">
+<h2 class="com_ttl02">講師紹介</h2>
+<div class="w_code_teacher_inner lpwrap">
+<div class="w_code_teacher_unit flex justify">
+<div class="w_code_teacher_img"><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/kaneko.png"></div>
+<div class="w_code_teacher_txt">
+<div class="w_code_teacher_name">かねこたくや</div>
+<div class="w_code_teacher_headline">Headline: ワンダフルズ CTO</div>
+<div class="w_code_teacher_ttl">自己紹介</div>
+<p>北海道大学農学院卒業後、ITベンチャー企業で3年の経験を積み、フリーランスプログラマーとして独立。その後はWeb系のフルスタックエンジニアとして活躍。その他、ディープラーニング案件もこなす、191cmの高身長プログラマー。これまで学んだスキルと、プログラミングを始めとする様々な教育経験で培った知見を活かし、「仕事で使えるスキルを身につけるための」独自プログラミング学習教材を作成し、運営中。</p>
+</div><!--w_code_teacher_txt-->
+</div><!--w_code_teacher_unit-->
+<div class="w_code_teacher_unit flex justify">
+<div class="w_code_teacher_img"><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/enami.png"></div>
+<div class="w_code_teacher_txt">
+<div class="w_code_teacher_name">エナミコウジ</div>
+<div class="w_code_teacher_headline">Headline: エンジニアリングスクールの運営兼講師</div>
+<div class="w_code_teacher_ttl">自己紹介</div>
+<p>業界初のAWSを主に置いたカリキュラムとコースを提供し、現場ベースの技術と知識を全力で伝える事に力を注ぐ。 同時に元フリーランスの現役エンジニアであり、プロジェクトマネージャーであり、会社役員。 ビジネスに関わる、プロジェクトの企画・提案・構築・運営・教育から税務や広報まで一貫して行えるのが強み。 本人がエンジニアでありプロジェクトマネージャーでもある事から、IT技術を駆使した戦略立案と計画を得意とする。</p>
+</div><!--w_code_teacher_txt-->
+</div><!--w_code_teacher_unit-->
+</div><!--w_code_teacher_inner-->
+</section><!--w_code_teacher-->
+
+<section class="w_code_application wow fadeInUp">
+<div class="w_code_application_ttl">講座のお申し込みはこちら</div>
+<a href="https://ex-pa.jp/item/26723" class="w_code_application_btn">講座の申し込みを希望する</a>
+<a href="https://ex-pa.jp/seller/tokutei/289375/26723" class="law_link">特定商取引法に関する記載</a>
+<br><span class="warning">※お客様都合による返品・返金はお受けしておりません。</span><br>
+<span class="warning">※決済システムの仕様上、ご注文内容「配送」と表示されますが、サービスはWebのみで提供されます。<br>招待リンクがご登録メールアドレスに送信されますのでご確認ください。</span>
+</section><!--w_code_application-->
+	
+<section class="w_code_price lpwrap com_box01 wow fadeInUp">
+<div class="w_code_price_inner">
+<div class="w_code_price_ttl"><i class="fas fa-chevron-circle-right"></i> Wonderful Code</div>
+<div class="w_code_price_txt01">完全網羅型プログラミング講座</div>
+<div class="w_code_price_txt02">受講価格</div>
+<div class="w_code_price_txt03">348,000<span>円</span><span>(税込)</span></div>
+</div><!--w_code_price_inner-->
+</section><!--w_code_price-->
+
+<section class="w_code_support com_box01 bg_blue wow fadeInUp">
+<div class="w_code_support_inner lpwrap">
+<h2 class="com_ttl02">当講座のサポート内容</h2>
+<div class="w_code_support_img01"><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/illust06.png"></div>
+<div class="w_code_support_unit w_code_support_unit01">
+<h3 class="w_code_support_ttl">動画コンテンツ</h3>
+<div class="w_code_support_ttl01">共通</div>
+<ul class="w_code_support_list01">
+<li>環境構築</li>
+<li>Git,GitHubの基本的な使い方</li>
+</ul>
+<div class="w_code_support_ttl01">バックエンドプログラミング</div>
+<ul class="w_code_support_list01">
+<li>Ruby でのプログラム作成</li>
+<li>Ruby on Rails での API 実装</li>
+<li>RSpec でのテスト実装</li>
+</ul>
+<div class="w_code_support_ttl01">フロントエンドプログラミング</div>
+<ul class="w_code_support_list01">
+<li>HTML, CSS の基礎</li>
+<li>JavaScript でのプログラム作成</li>
+<li>Nuxt.js（Vue.js）でのアプリ開発</li>
+</ul>
+<div class="w_code_support_ttl01">インフラストラクチャー</div>
+<ul class="w_code_support_list01">
+<li>インフラの基礎</li>
+<li>AWS上でのインフラ環境構築</li>
+<li>インフラのコード化と自動化</li>
+</ul>
+</div><!--w_code_support_unit-->
+<div class="w_code_support_unit w_code_support_unit02 flex justify">
+<div class="w_code_support_unit_txt01">
+<h3 class="w_code_support_ttl">無制限の質問対応</h3>
+<p>質問は<span class="fbold">無制限</span>となります。講師にわからないことを心ゆくまで質問し、疑問の解消や方向性のディレクションなどをしてもらうことが可能です。とにかく<span class="fbold">挫折しないことを重要視したサポート環境づくり</span>をしているため、このサポートサービスで<span class="fbold">安心して取組んで頂くことが可能</span>です。</p>
+</div><!--w_code_support_unit_txt01-->
+<div class="w_code_support_unit_img01"><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/illust07.png"></div>
+</div><!--w_code_support_unit-->
+<div class="w_code_support_unit w_code_support_unit03">
+<h3 class="w_code_support_ttl">サポート期間は永久</h3>
+	<p>サポート期間は3ヶ月でも6ヶ月でも1年でもなく<span class="fbold">永久サポート</span>となります。初心者にはスタートアップにあたっての悩みや問題がたくさんありますが、スキルアップしたあとはまた違った悩みや課題に直面することになります。あなたが<span class="fbold">フリーランスエンジニアとして成功</span>するために、特に<span class="fbold">サポート期限を設けることなくサポートを継続</span>させて頂きますので、大船に乗ったつもりで飛び込んできてください！</p>
+</div><!--w_code_support_unit-->
+<div class="w_code_support_unit w_code_support_unit04">
+<h3 class="w_code_support_ttl">現場で通用するカリキュラム</h3>
+<div class="w_code_support_unit_inner flex justify">
+<div class="w_code_support_unit_img02"><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/illust08.png"></div>
+<div class="w_code_support_unit_txt02">
+<p>現場で通用するにはプログラミングだけでは足りません。それ以外の<span class="fbold">周辺技術や立ち回り</span>が必要になります。チーム開発が基本になるので、身につけておくべき<span class="fbold">他のメンバーとのコミュニケーション</span>の取り方も講座の中でお伝えします。</p>
+</div><!--w_code_support_unit_txt02-->
+</div><!--w_code_support_unit_inner-->
+</div><!--w_code_support_unit-->
+<div class="w_code_support_unit w_code_support_unit05">
+<h3 class="w_code_support_ttl">チャットツールSlackを使った受講者コミュニティ</h3>
+<p><span class="fbold">Slackというチャットツール</span>を使って<span class="fbold">無制限の質問</span>ができますが、<span class="fbold">同時に受講生コミュニティになっていて、あなたが分からない問題も既にSlackの過去チャットを見れば解決済み</span>のこともあります。こうして<span class="fbold">つまづきポイントの解決事例</span>がどんどんたまっていく仕組みです。他には、<span class="fbold">別の人が受けたコード添削を自分も見て学びを深める</span>といった使い方も可能です！</p>
+</div><!--w_code_support_unit-->
+</div><!--w_code_support_inner-->
+</section><!--w_code_support-->
+
+<section class="w_code_application wow fadeInUp">
+<div class="w_code_application_ttl">講座のお申し込みはこちら</div>
+<a href="https://ex-pa.jp/item/26723" class="w_code_application_btn">講座の申し込みを希望する</a>
+<a href="https://ex-pa.jp/seller/tokutei/289375/26723" class="law_link">特定商取引法に関する記載</a>
+<br><span class="warning">※お客様都合による返品・返金はお受けしておりません。</span><br>
+<span class="warning">※決済システムの仕様上、ご注文内容「配送」と表示されますが、サービスはWebのみで提供されます。<br>招待リンクがご登録メールアドレスに送信されますのでご確認ください。</span>
+</section><!--w_code_application-->
+
+<section class="w_code_precautions com_box01 bg_blue wow fadeInUp">
+<h2 class="com_ttl02">注意事項・事前準備</h2>
+<div class="w_code_precautions_unit lpwrap">
+<div class="w_code_precautions_inner">
+<h3 class="w_code_precautions_ttl">お申込み前に以下の<br class="only_sp">注意事項をご確認ください。</h3>
+<ul class="w_code_precautions_list">
+	<li>PCはmacOSのみ対応しています。Windowsは非対応です。</li>
+	<li>質問はなるべく早く返しますが、<span class="fbold">最長で２日ほど</span>かかることがございます。</li>
+	<li>本講座は<span class="fbold">脱初心者を目指す方向けの教材</span>です。</li>
+	<li>しっかり知識をつけた上で、<span class="fbold">自走してもらえる状態まで</span>もっていきます。</li>
+	<li>特定商取引法に関する表記は<span class="fbold">こちら</span>をご確認ください。</li>
+	<li>商品の特性上、<span class="fbold">返品に関しては受け付けられません。</span></li>
+	<li>購入後、<span class="fbold">講座受講用のプラットフォームとQA用のSlackワークスペース</span>に2営業日以内に招待いたします。<br>もし招待が来なかった場合、お手数ですが、運営事務局までご連絡ください。<a href="mailto:wonderfulclass.staff@gmail.com">wonderfulclass.staff@gmail.com</a></span></li>
+</ul>
+</div><!--w_code_precautions_inner-->
+</div><!--w_code_precautions_unit-->
+</section><!--w_code_precautions-->
+
+<section class="w_code_application wow fadeInUp">
+<div class="w_code_application_ttl">講座のお申し込みはこちら</div>
+<a href="https://ex-pa.jp/item/26723" class="w_code_application_btn">講座の申し込みを希望する</a>
+<a href="https://ex-pa.jp/seller/tokutei/289375/26723" class="law_link">特定商取引法に関する記載</a>
+<br><span class="warning">※お客様都合による返品・返金はお受けしておりません。</span><br>
+<span class="warning">※決済システムの仕様上、ご注文内容「配送」と表示されますが、サービスはWebのみで提供されます。<br>招待リンクがご登録メールアドレスに送信されますのでご確認ください。</span>
+</section><!--w_code_application-->
+
+<section class="w_code_faq com_box01 bg_blue wow fadeInUp">
+<h2 class="com_ttl02">よくあるご質問</h2>
+<div class="w_code_faq_inner lpwrap">
+<dl class="w_code_faq_unit">
+<dt>分からないところはどう解決しますか？</dt>
+<dd><span class="fbold">無制限</span>にチャットの質問に<span class="fbold">現役エンジニアである講師</span>が直接お答えします。<span class="fbold">納得するまで何回でも</span>遠慮なく質問してください。未経験者でもとにかく<span class="fbold">挫折しないことを重要視したサポート環境</span>をご用意しています。</dd>
+</dl><!--w_code_faq_unit-->
+<dl class="w_code_faq_unit">
+<dt>仕事をしながらの学習ですが、本当に実力はつきますか？</dt>
+<dd>もちろん可能です。自習学習だけの環境ではモチベーションが維持できません。しかしワンダフルコードは、<span class="fbold">優れた実績を持つ現役エンジニア講師</span>と、現場で通用するための<span class="fbold">厳選カリキュラムによってモチベーションを維持</span>し、やり切ることが可能です。</dd>
+</dl><!--w_code_faq_unit-->
+<dl class="w_code_faq_unit">
+<dt>忙しくて学習期間内に終わらなかった場合どうなるのでしょうか。</dt>
+<dd>ワンダフルコードは<span class="fbold">学習期間はありません</span>。ご自身の事情に合わせてじっくり取り組むもよし、最短最速で一気に進めるのもよしです。じっくり取り組んだ場合でも、<span class="fbold">サポート期間に終わりはありません</span>ので、いつでもご質問ください。</dd>
+</dl><!--w_code_faq_unit-->
+<dl class="w_code_faq_unit">
+<dt>30歳を超えているのですが、利用することはできますか？</dt>
+<dd>可能です。確かに30歳を超えると未経験からの<span class="fbold">転職のハードルは上がる</span>ため、他のスクールでは受け入れをしていません。<span class="fbold">ワンダフルコードは教育力に自信がある</span>ため<span class="fbold">30歳を超えた方でも受け入れを行っています</span>。</dd>
+</dl><!--w_code_faq_unit-->
+<dl class="w_code_faq_unit">
+<dt>学生ですが、利用することはできますか？</dt>
+<dd>はい、もちろん学生の方でも利用が可能です。</dd>
+</dl><!--w_code_faq_unit-->
+<dl class="w_code_faq_unit">
+<dt>WindowsPCでの受講は可能ですか。</dt>
+<dd>PCはmacOSのみ対応しています。Windowsは非対応です。</dd>
+</dl><!--w_code_faq_unit-->
+<dl class="w_code_faq_unit">
+<dt>学習は講義形式ですか？それとも自習形式ですか？</dt>
+<dd>学習は<span class="fbold">オンライン講座による自習形式</span>です。いつでも見返して復習できますし、質問できる環境であれば、その方が効率よく学習ができるためです。</dd>
+</dl><!--w_code_faq_unit-->
+</div><!--w_code_faq_inner-->
+</section><!--w_code_faq-->
+ 
+ 
+ 
+</div><!--lp_body-->
+<!-- ▼Lstep用タグ▼　-->
+<script src='https://lstep.app/s/9317/N21SkN'></script>
+<!-- ▲Lstep用タグ▲　-->
+
+    <div class="recruit-splash" data-parallax="scroll" data-speed="0.6" data-image-src="https://wonderful-wife.net/wp-content/uploads/2020/04/contact_headのコピー.jpg">
+    <div class="container section section-small" style="overflow:hidden;">
+      <div class="row">
+        <div class="col-xs-120 text-center">
+          <h2 class="recruit-splash-h2 smaller-mobile-h2">お問合わせはこちら</h2>
+          <a class="link-button-azure_btm big" style="margin-top:24px" href="/contact/"><span class="btn_lavel">メールフォーム</span><span class="arrow_ico2"></span></a>        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="section container-fluid">
+  <div class="row">
+        <div class="col-xs-120"><a href="https://wonderful-wife.net/"><img src="https://wonderful-wife.net/wp-content/uploads/2020/04/logo.png" alt="ワンダフルワイフ" title="ワンダフルワイフ" width="220" height="37" class="footer_logo"></a></div>    <div class="col-xs-120 footer-menu">
+      <div class="menu-%e3%83%95%e3%83%83%e3%82%bf%e3%83%bc%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc-container"><ul id="footer-menu" class="nav navbar-nav"><li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://wonderful-wife.net/tokushoho/">特定商取引法に関する記載</a></li>
+<li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="https://wonderful-wife.net/privacy/">プライバシーポリシー</a></li>
+<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="https://wonderful-wife.net/userpolicy/">利用規約</a></li>
+</ul></div>    </div>
+
+    
+      </div>
+</div>
+
+<div class="text-center returntop">
+	<a href="#verytop"><span></span></a>
+</div>
+
+<div style="background:black; ">
+	<div class="container">
+		<div class="row">
+      			<div class="col-sm-30 text-right col-sm-push-90">
+        <a href="https://www.facebook.com/ryuken.yamamoto"><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/images/facebook.png" class="social-icon"></a>        <a href="https://twitter.com/ryukke"><img src="https://wonderful-wife.net/wp-content/themes/agent_tcd033/images/twitter.png" class="social-icon"></a>        			</div>
+            <div class="col-sm-offset-30 col-sm-60 col-sm-pull-30 text-center romaji copyright">Copyright 2021 ワンダフルワイフ</div>
+
+		</div>
+	</div>
+</div>
+
+
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/wonderful-wife.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wonderful-wife.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://wonderful-wife.net/wp-content/themes/agent_tcd033/includes/js/skip-link-focus-fix.js?ver=20130115' id='_tk-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://wonderful-wife.net/wp-includes/js/wp-embed.min.js?ver=5.6.2' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://wonderful-wife.net/wp-includes/js/comment-reply.min.js?ver=5.6.2' id='comment-reply-js'></script>
+
+<script type="text/javascript">
+	(function($){
+
+    equalheight=function(t){var i,e=0,h=0,r=new Array;$(t).each(function(){if(i=$(this),$(i).height("auto"),topPostion=i.position().top,h!=topPostion){for(currentDiv=0;currentDiv<r.length;currentDiv++)r[currentDiv].height(e);r.length=0,h=topPostion,e=i.height(),r.push(i)}else r.push(i),e=e<i.height()?i.height():e;for(currentDiv=0;currentDiv<r.length;currentDiv++)r[currentDiv].height(e)})};
+
+          $('ul.nav li.dropdown, ul.nav li.dropdown-submenu').hover(function() {
+    		$(this).find(' > .dropdown-menu').stop(true, true).delay(200).fadeIn();
+    	}, function() {
+    		$(this).find(' > .dropdown-menu').stop(true, true).delay(200).fadeOut();
+    	})
+  	
+
+var doHeightAsViewport = function(){
+    $('.heightasviewport').css('height', $(window).height())
+  }
+
+    function fixStuff() {
+      jQuery(".heightaswidth").each(function(){
+        $(this).css('height', $(this).outerWidth())
+      })
+    }
+
+    fixStuff();
+    doHeightAsViewport();
+
+    setInterval(fixStuff, 1000)
+    setInterval(doHeightAsViewport, 300)
+
+    equalheight('.equal-height');
+
+    $(".verticalcenter").each(function(){
+      var center = ($(this).parent().outerHeight() / 2) - parseInt($(this).parent().css('padding-top'))
+      var size = $(this).outerHeight() / 2
+
+      $(this).css('padding-top', center - size)
+    })
+    
+
+    var cursor = 0
+    var slides = $(".splash-image")
+    slides.hide()
+
+    var newSlide = function(){
+      if( cursor >= slides.length ){
+        cursor = 0
+      }
+
+      if (slides.length!=1){
+        slides.fadeOut('slow')
+      }
+      $(slides[cursor]).fadeIn('slow')
+
+      cursor++;
+    }
+
+    setInterval(newSlide, 3000)
+    newSlide()
+
+		$("#agent-splash-text").removeClass('translated-right')
+		$("#next-button").removeClass('opaque')
+
+    $("a[href*=#]:not([href=#])").click(function(){if(location.pathname.replace(/^\//,"")==this.pathname.replace(/^\//,"")&&location.hostname==this.hostname){var e=jQuery(this.hash);if(e=e.length?e:jQuery("[name="+this.hash.slice(1)+"]"),e.length)return jQuery("html,body").animate({scrollTop:e.offset().top},1e3),!1}});
+
+    // setTimeout(function(){
+    //   if( $('.navbar-collapse').first().hasClass('in') ){
+    //     $(".navbar-toggle").trigger("click") 
+    //   }
+    // }, 300)
+    
+    if( $(window).width() < 1200 ){
+      $(".navbar-toggle").click(function(){
+        setTimeout(function(){
+          $(".menu-item").addClass('open')  
+        }, 300)
+      })
+    }
+    
+    $(".menu-item").click(function(){ })
+    
+    $(".menu-item a").click(function(){
+      if( !$(this).attr('href') ){
+        return false
+      }
+    })
+
+  window.onpageshow = function(event) {
+    if (event.persisted) {
+      window.location.reload() 
+    }
+  }
+
+	})(jQuery)
+
+</script>
+
+ 
+<script src='https://lstep.app/s/9317/QkMATi'></script>
+
+
+</body>
+</html>
+�　-->
